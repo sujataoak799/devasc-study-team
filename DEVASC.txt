@@ -1,3 +1,4 @@
 I am on my way to Pass the DevOps Foundation Certification Exam
 I am beginning to understand Git!
 This text wad added originally while in the feature branch
+Welcome Students, at RAIT!!!
